@@ -12,5 +12,10 @@ namespace BE
         public int lolardo2 { get; set; }
         public int lolardo3 { get; set; }
         public int lolardo4 { get; set; }
+        public string DevolverGOAT()
+        {
+            return "Wilfedinho";
+        }
     }
+    
 }
