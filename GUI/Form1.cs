@@ -21,9 +21,9 @@ namespace GUI
         private void button1_Click(object sender, EventArgs e)
         {
             dataGridView1.Visible = false;
-            MessageBox.Show("lol");
-            MessageBox.Show("jijolin");
-            MessageBox.Show("Me quede sin pc");
+            MessageBox.Show("messi");
+            MessageBox.Show("me");
+            MessageBox.Show("ama");
         }
     }
 }
