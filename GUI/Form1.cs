@@ -20,9 +20,9 @@ namespace GUI
         private void button1_Click(object sender, EventArgs e)
         {
             dataGridView1.Visible = false;
-            MessageBox.Show("pito");
-            MessageBox.Show(":v");
-            MessageBox.Show("AGUANTE EL BARCELONA LA CONCHA GORDA DE TU MADRE");
+            MessageBox.Show("messi");
+            MessageBox.Show("me");
+            MessageBox.Show("ama");
         }
     }
 }
