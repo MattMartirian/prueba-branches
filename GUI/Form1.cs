@@ -15,6 +15,7 @@ namespace GUI
         public Form1()
         {
             InitializeComponent();
+            //lolardo
         }
 
         private void button1_Click(object sender, EventArgs e)
