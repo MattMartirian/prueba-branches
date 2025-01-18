@@ -15,14 +15,15 @@ namespace GUI
         public Form1()
         {
             InitializeComponent();
+            //lolardo
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
             dataGridView1.Visible = false;
-            MessageBox.Show("pito");
-            MessageBox.Show(":v");
-            MessageBox.Show("AGUANTE EL BARCELONA LA CONCHA GORDA DE TU MADRE");
+            MessageBox.Show("lol");
+            MessageBox.Show("jijolin");
+            MessageBox.Show("Me quede sin pc");
         }
     }
 }
