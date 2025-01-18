@@ -21,6 +21,7 @@ namespace GUI
         {
             dataGridView1.Visible = false;
             MessageBox.Show(":v");
+            MessageBox.Show("AGUANTE EL BARCELONA LA CONCHA GORDA DE TU MADRE");
         }
     }
 }
