@@ -20,6 +20,7 @@ namespace GUI
         private void button1_Click(object sender, EventArgs e)
         {
             dataGridView1.Visible = false;
+            MessageBox.Show("pito");
             MessageBox.Show(":v");
         }
     }
